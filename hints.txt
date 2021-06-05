@@ -1,0 +1,13 @@
+{'of'}
+{'a', 'Website', 'build'}
+{'a', 'Website', 'to'}
+{'promote', 'an', 'to'}
+{'an', 'event', 'upcoming'}
+{'College', 'event', 'for', 'your'}
+
+
+From above scraped hints - 
+
+The problem statement is : Build a website to promote an upcoming event for your college.
+
+
